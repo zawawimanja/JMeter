@@ -1,0 +1,5 @@
+
+
+
+Samplers - send specific types of requests to a server
+Logical Controllers -  control the flow the order of processing of samplers in a thread
